@@ -1,0 +1,4 @@
+
+How to run the project?
+Step 1. Simply Build => Build Solution to compile the code. "Image.exe" can be found in ./Debug
+Step 2. cd into ./Debug and run "Image.exe <dir to image> 1 2 3 256" where 1 is Y Ratio, 2 is U Ratio, 3 is V Ratio, and 256 is the quantization number (number of intervals)
